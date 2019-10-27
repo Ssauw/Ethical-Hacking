@@ -15,3 +15,5 @@ I simply know many people who does that and it's a pretty common thing to do whe
 I'd like to sincerely thank Julien Garnier with whom I'd never be who I am today. He's a passionate and really nice person and not to mention a really great Hacker. He's the only one who took care of me and showed me the road to Hacking. He's my professor and mentor in security and I have many things to learn from him.
 
 I'd also like to thank my girlfriend who made me realize how much I was wasting my time on video games and so made me more assiduous on my work. That was the real trigger for me to grow up about work.
+
+Last but not least, how can't I thank every single person who contributes to Cybersecurity and computer science. This community is based on sharing knowledge and pushing the limits. This an amazing job area with passionates people and that is what makes computer science incredible.
