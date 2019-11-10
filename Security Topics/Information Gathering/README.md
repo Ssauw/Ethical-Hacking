@@ -29,6 +29,8 @@ Software:
 - Maltego
 - The Harvester
 - UberHarvest
+- Nessus
+- Nikto
 
 Dns Enumeration:
 - Nslookup
