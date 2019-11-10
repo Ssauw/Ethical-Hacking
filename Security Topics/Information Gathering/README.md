@@ -31,6 +31,7 @@ Software:
 - UberHarvest
 - Nessus
 - Nikto
+- Dirb and others
 
 Dns Enumeration:
 - Nslookup
