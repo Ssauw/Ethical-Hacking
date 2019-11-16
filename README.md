@@ -17,3 +17,8 @@ I'd like to sincerely thank Julien Garnier with whom I'd never be who I am today
 I'd also like to thank my girlfriend who made me realize how much I was wasting my time on video games and so made me more assiduous on my work. That was the real trigger for me to grow up about work.
 
 Last but not least, how can't I thank every single person who contributes to Cybersecurity and computer science. This community is based on sharing knowledge and pushing the limits. This an amazing job area with passionates people and that is what makes computer science incredible.
+
+# Disclaimer
+
+As a futur Ethical hacker, I have to warn you that everything written on this github is for learning purposes only. I am 
+not and won't be responsible of what you do with this knowledge.
